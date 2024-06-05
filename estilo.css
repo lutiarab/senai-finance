@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    background-image:  url(tabletb.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 900px;
+    margin: 25% auto;
+    width: 25%;
+    padding-bottom: 8%;
+}
+input{
+    width: 100%;
+    padding: 6px;
+}
+button{
+    width: 100%;
+    padding: 6px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    background-color: transparent;
+    border: solid 1px rgb(27, 27, 27);
+    color: aliceblue;
+}
+label{
+    font-size: 22px;
+    color: aliceblue;
+}
+h1{
+    font-size: 37px;
+    color: aliceblue;
+    padding-bottom: 20px;
+}
+p{
+    padding-bottom: 80px;
+    font-size: 17px;
+    color: aliceblue;
+}
